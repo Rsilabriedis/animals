@@ -20,9 +20,8 @@ body{
 .images{
     display: flex;
     width: 100vw;
+    justify-content: space-evenly;
 }
 .image-l{
-    left: 10%;
-    position: relative;
-    gap: 10px;
+    display: flex;
 }
